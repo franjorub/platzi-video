@@ -1,0 +1,5 @@
+# Usar npm install para traer las dependencias
+node_modules/
+
+#Carpeta de ejemplo hecha con npx create-react-app platzi-video
+platzi_video/
